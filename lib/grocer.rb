@@ -26,6 +26,8 @@ while counter < cart.length
   else 
     new_cart_item = {
       item => cart[counter][:item]
+      price => cart[counter][:price]
+      
     }
   counter += 1
 

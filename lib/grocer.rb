@@ -24,7 +24,7 @@ while counter < cart.length
   if new_cart_item != nil 
     new_cart_item[:count] += 1
   else 
-    
+    new_cart_item = {
   counter += 1
 
   end 

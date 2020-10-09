@@ -33,7 +33,6 @@ while counter < cart.length
     new_cart << new_cart_item
   end
   counter += 1
-
   end 
 end
 
